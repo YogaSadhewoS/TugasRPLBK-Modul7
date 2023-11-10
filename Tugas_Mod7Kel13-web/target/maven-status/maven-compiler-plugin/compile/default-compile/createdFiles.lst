@@ -1,0 +1,5 @@
+com\mycompany\tugas_mod7kel13\resources\JakartaEE10Resource.class
+tracker\ejb\TrackerBean.class
+tracker\web\Tracker.class
+com\mycompany\tugas_mod7kel13\JakartaRestConfiguration.class
+tracker\ejb\TrackerBeanLocal.class
